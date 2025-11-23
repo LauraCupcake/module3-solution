@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: #a6c1db;
+    padding: 10px;
+    margin: -10px 0 0 0;
+}
+
+.blue {
+    background-color: #a6c1db;
+    border: 1px solid #7a7ea6;
+    padding: 10px;
+    border-radius: 5px;
+}
